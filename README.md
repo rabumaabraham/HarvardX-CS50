@@ -1,6 +1,6 @@
 # CS50x 2025 Solutions
 
-This repository contains my solutions to CS50x 2025 problem sets and the final project.
+This repository contains my solutions to HarvardX: CS50's Introduction to Computer Science problem sets and the final project.
 
 All code was written by me for learning purposes and follows CS50's style guidelines.
 
